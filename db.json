@@ -1,0 +1,22 @@
+{
+  "services": [
+    {
+      "id": 1,
+      "name": "Ah kien Plumbing",
+      "contactNumber": "017398398",
+      "description": "We provide high quality plumbing service everyday."
+    },
+    {
+      "id": 2,
+      "name": "Rumu Cooking Gas",
+      "contactNumber": "01739111",
+      "description": "We provide high quality gas on weekdays."
+    },
+    {
+      "id": 3,
+      "name": "Raz Aircond Service",
+      "contactNumber": "039818729",
+      "description": "We provide aircond wide range of aircond service, including installation"
+    }
+  ]
+}
