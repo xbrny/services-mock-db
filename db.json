@@ -17,6 +17,24 @@
       "name": "Raz Aircond Service",
       "contactNumber": "039818729",
       "description": "We provide aircond wide range of aircond service, including installation"
+    },
+    {
+      "id": 4,
+      "name": "Sara Bakery",
+      "contactNumber": "017398398",
+      "description": "We provide high quality plumbing service everyday."
+    },
+    {
+      "id": 5,
+      "name": "Coffee santan",
+      "contactNumber": "01739111",
+      "description": "We provide high quality gas on weekdays."
+    },
+    {
+      "id": 6,
+      "name": "Locksmith abu",
+      "contactNumber": "039818729",
+      "description": "We provide aircond wide range of aircond service, including installation"
     }
   ]
 }
